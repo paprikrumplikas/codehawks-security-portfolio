@@ -389,7 +389,7 @@ contract MartenitsaMarketplace is Ownable {
 ...
 }
 ```
-```
+
 ## <a id='H-02'></a>H-02. Ether handling flaw in `MartenitsaMarketplace::buyMartenitsa` allows for unrecoverable overpayments            
 
 ### Relevant GitHub Links
